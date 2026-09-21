@@ -1,0 +1,8 @@
+ticker,name,share_price,shares_outstanding_millions,ffo_per_share,affo_per_share,net_debt_millions,ebitda_millions
+AVB,AvalonBay Communities,205.00,143.0,10.85,9.60,7200,1520
+CPT,Camden Property Trust,110.00,111.0,6.70,5.85,3450,595
+MAA,Mid-America Apartment Communities,150.00,117.0,8.90,7.70,4700,975
+UDR,UDR Inc.,42.00,204.0,2.45,2.10,4550,650
+IRT,Independence Realty Trust,18.50,197.0,1.15,0.95,2150,290
+NXRT,NexPoint Residential Trust,42.50,25.0,2.55,2.05,1150,135
+CSR,Centerspace,65.00,17.0,4.45,3.65,750,88

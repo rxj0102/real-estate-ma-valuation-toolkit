@@ -1,0 +1,13 @@
+property_id,name,submarket,units,year_built,in_place_monthly_rent_per_unit,current_occupancy,other_income_per_unit_monthly,controllable_opex_ratio,property_tax_annual,insurance_annual,capex_reserve_per_unit_annual,going_in_cap_rate,debt_balance,interest_rate,amortization_years,io_period_years
+P01,The Ashford at Buckhead,Buckhead,220,2016,1950,0.94,110,0.35,620000,180000,300,0.046,26500000,0.0475,30,2
+P02,Midtown Skyline Flats,Midtown,330,2018,2100,0.93,120,0.35,880000,260000,300,0.045,42000000,0.0480,30,3
+P03,Sandy Springs Reserve,Sandy Springs,280,2012,1700,0.92,95,0.37,650000,210000,300,0.050,28500000,0.0510,30,0
+P04,Alpharetta Commons,Alpharetta,290,2014,1650,0.93,90,0.37,640000,215000,300,0.051,27500000,0.0505,30,0
+P05,Decatur Junction,Decatur,180,2009,1550,0.91,85,0.38,420000,150000,300,0.053,16000000,0.0520,30,0
+P06,Marietta Trails,Marietta,280,2007,1450,0.90,80,0.39,560000,220000,300,0.056,22000000,0.0530,30,0
+P07,Smyrna Vinings Park,Smyrna,300,2015,1800,0.94,105,0.36,660000,200000,300,0.048,32000000,0.0490,30,1
+P08,Perimeter Center Lofts,Sandy Springs / Perimeter,250,2017,1900,0.93,115,0.35,590000,175000,300,0.047,28000000,0.0480,30,2
+P09,East Point Commons,East Point,200,2006,1300,0.89,70,0.40,380000,175000,300,0.060,12500000,0.0540,30,0
+P10,Chamblee Crossing,Chamblee,230,2011,1600,0.92,90,0.37,470000,165000,300,0.052,20500000,0.0515,30,0
+P11,Kennesaw Ridge,Kennesaw,290,2008,1400,0.90,80,0.39,520000,225000,300,0.057,19500000,0.0535,30,0
+P12,Old Fourth Ward Row,Old Fourth Ward,210,2019,2050,0.95,120,0.34,610000,155000,300,0.044,29000000,0.0470,30,3

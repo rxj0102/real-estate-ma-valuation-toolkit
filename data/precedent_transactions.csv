@@ -1,0 +1,11 @@
+deal_id,year,target_profile,buyer_profile,units,price_per_unit,cap_rate_paid,ev_ebitda_multiple
+T01,2021,"Sun Belt garden-style multifamily portfolio, 12 assets",Public multifamily REIT (strategic bolt-on),3400,205000,0.0390,28.0
+T02,2021,"Class B suburban Atlanta apartment portfolio",Private equity real estate fund (value-add),2600,178000,0.0410,27.0
+T03,2022,"Stabilized core-plus multifamily portfolio, Southeast",Institutional separate account (core-plus),4100,215000,0.0430,25.5
+T04,2022,"Mid-size regional multifamily operating company",Public multifamily REIT (platform acquisition),5200,195000,0.0455,24.0
+T05,2022,"Value-add garden apartment portfolio, Sun Belt",Private equity real estate fund (value-add),2100,168000,0.0470,23.0
+T06,2023,"Suburban Southeast multifamily portfolio",Non-traded REIT (core-plus),3300,182000,0.0510,21.5
+T07,2023,"Class B/B+ multifamily operating company, Georgia/Carolinas",Regional private operator (platform roll-up),3800,175000,0.0525,21.0
+T08,2023,"Stabilized multifamily portfolio, secondary Sun Belt metro",Pension fund direct real estate arm (core),2900,190000,0.0500,21.5
+T09,2024,"Garden-style multifamily portfolio, Atlanta MSA",Private equity real estate fund (value-add / opportunistic),3000,172000,0.0540,20.0
+T10,2024,"Mid-size multifamily operating company, Sun Belt",Public multifamily REIT (strategic consolidation),4500,188000,0.0515,21.0
