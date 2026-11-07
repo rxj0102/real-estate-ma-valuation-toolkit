@@ -1,5 +1,7 @@
 # Real Estate M&A Valuation Toolkit
 
+[![CI](https://github.com/rxj0102/real-estate-ma-valuation-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/rxj0102/real-estate-ma-valuation-toolkit/actions/workflows/ci.yml)
+
 A sell-side M&A advisory-style valuation toolkit for a multifamily real estate
 operating company, built around the methodologies a real estate investment
 banking analyst actually uses -- not a generic corporate DCF, and not
